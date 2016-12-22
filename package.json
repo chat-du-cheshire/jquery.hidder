@@ -1,0 +1,19 @@
+{
+  "name": "jquery.hidder",
+  "version": "1.0.0",
+  "description": "Simple jQuery plugin for hiding content under \"Read more\" button",
+  "main": "jquery.hidder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chat-du-cheshire/jquery.hidder.git"
+  },
+  "author": "chat-du-cheshire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chat-du-cheshire/jquery.hidder/issues"
+  },
+  "homepage": "https://github.com/chat-du-cheshire/jquery.hidder#readme"
+}
