@@ -19,5 +19,8 @@
   "keywords": [
     "hidder",
     "jquery.plugin"
-  ]
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
 }
