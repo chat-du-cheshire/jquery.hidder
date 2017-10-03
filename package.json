@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/chat-du-cheshire/jquery.hidder/issues"
   },
-  "homepage": "https://github.com/chat-du-cheshire/jquery.hidder#readme"
+  "homepage": "https://github.com/chat-du-cheshire/jquery.hidder#readme",
+  "keywords": [
+    "hidder",
+    "jquery.plugin"
+  ]
 }
